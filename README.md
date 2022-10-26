@@ -1,8 +1,9 @@
 # KeepNotes
 KeepNotes
 
-Welcome to my project
+# Welcome to my project
 
-Objective- To schedule your tasks.
+# Objective- To schedule your tasks in a fun way.
 
-![Please check out my project](https://symphonious-cactus-95e9d9.netlify.app/)
+
+# Please check out here-    https://symphonious-cactus-95e9d9.netlify.app/
